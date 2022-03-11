@@ -1,4 +1,4 @@
-package in.codinggyan;
+package in.codinggyan.array;
 
 import java.util.Arrays;
 
